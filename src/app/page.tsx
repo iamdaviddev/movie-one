@@ -1,4 +1,3 @@
-import { Footer } from "@/components/footer";
 import { BackgroundCarrosel } from "@/components/background-carousel";
 import { MovieList } from "@/components/movie-list";
 import { GenreFilter } from "@/components/genre-filter";
