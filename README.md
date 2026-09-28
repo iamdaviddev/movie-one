@@ -1,6 +1,6 @@
-# 🎬 MovieFinder
+# 🎬 MovieOne
 
-MovieFinder é uma aplicação web desenvolvida com **Next.js**, **TypeScript** e **Tailwind CSS** que permite buscar, explorar e visualizar detalhes de filmes utilizando a API do TMDb. Ideal para cinéfilos que querem descobrir novos títulos e acompanhar o que já assistiram.
+MovieOne é uma aplicação web desenvolvida com **Next.js**, **TypeScript** e **Tailwind CSS** que permite buscar, explorar e visualizar detalhes de filmes utilizando a API do TMDb. Ideal para cinéfilos que querem descobrir novos títulos e acompanhar o que já assistiram.
 
 ---
 
@@ -19,7 +19,11 @@ MovieFinder é uma aplicação web desenvolvida com **Next.js**, **TypeScript** 
 
 ## 🖼️ Preview
 
-![MovieFinder Preview](./public/preview.png)
+![Movieoinder Preview](./public/preview.png)
+
+![Movieoinder Preview](./public/preview1.png)
+
+![Movieoinder Preview](./public/preview2.png)
 
 ---
 
@@ -38,8 +42,8 @@ MovieFinder é uma aplicação web desenvolvida com **Next.js**, **TypeScript** 
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/movie-finder.git
-cd movie-finder
+git clone https://github.com/iamdaviddev/movie-one.git
+cd movie-one
 ```
 2. Instale as dependências
 
