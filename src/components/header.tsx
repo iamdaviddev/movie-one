@@ -13,7 +13,7 @@ export function Header() {
             className="text-xl sm:text-2xl lg:text-3xl font-bold" 
             style={{ color: 'var(--color-accent)' }}
           >
-            MovieFinder
+            movieOne
           </span>
         </Link>
 
